@@ -41,4 +41,4 @@ I shouldn't need to say this, but if you actually sell this, then only god and a
 **UC Download:** [Download from UnknownCheats](https://www.unknowncheats.me/forum/downloads.php?do=file&id=44890)
 
 ## Educational Purpose
-For educational & demonstration purposes only. Not for illegal activities or violating terms of service. The Author does not condone misuse.
+For educational & demonstration purposes only. Not for illegal activities or violating terms of service. The Author does not condone misuse. The author also doesnt condone invasive/intrusive kernel AC systems like vanguard though :)
