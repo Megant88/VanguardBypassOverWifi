@@ -1,0 +1,17 @@
+{
+    "aimbot": {
+        "enable_aimbot": true,
+        "aimbot_hotkey": "0x06",
+        "x_fov": 40,
+        "y_fov": 30,
+        "cop": 1,
+        "x_speed": 0.43,
+        "y_speed": 0.5
+    },
+    "misc_settings": {
+        "ip":"MAINPCIPHERE",
+        "port":25565,
+        "tcp_sleep":0.00001,
+        "monitor_id": 0
+    }
+}
