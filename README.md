@@ -38,7 +38,7 @@ I shouldn't need to say this, but if you actually sell this, then only god and a
 
 **- If this helped you or you like my work, feel free to check out my other projects. I also appreciate it if you star the repo and follow me on github, for more nice work :)**
 
-[UnknownCheats Thread]([https://www.unknowncheats.me/forum/valorant/635782-ud-bypass-vanguard-using-2pc-wifi-hardware.html)
+[UnknownCheats Thread](https://www.unknowncheats.me/forum/valorant/635782-ud-bypass-vanguard-using-2pc-wifi-hardware.html)
 
 ## Educational Purpose
 For educational & demonstration purposes only. Not for illegal activities or violating terms of service. The Author does not condone misuse. The author also doesnt condone invasive/intrusive kernel AC systems(ccp bootloader) like vanguard though :)
