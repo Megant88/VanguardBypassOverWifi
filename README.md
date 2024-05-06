@@ -23,7 +23,7 @@ A few days ago, the idea came to my mind again. Having moved countries and a new
 
 The drawing includes a little Easter egg (which might annoy someone), also have fun guessing what map I drew! :)
 
-![Image](https://i.ibb.co/fqpsxy7/image.png)
+![Easter Egg Drawing](megant88draw2.png)
 [Proof of Concept Video](https://streamable.com/2miw0d)
 
 ## Additional Notes
