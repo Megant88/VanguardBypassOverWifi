@@ -36,9 +36,9 @@ Feel free to contact me through my socials if you need help. In the video, I use
 I've added comments throughout the code to explain things further.
 I shouldn't need to say this, but if you actually sell this, then only god and a lot of prayers can help you.
 
-- If this helped you or you like my work, feel free to check out my other projects. I also appreciate it if you star the repo and follow me on github, for more nice work :)
+**- If this helped you or you like my work, feel free to check out my other projects. I also appreciate it if you star the repo and follow me on github, for more nice work :)**
 
-**UC Download:** [Download from UnknownCheats](https://www.unknowncheats.me/forum/downloads.php?do=file&id=44890)
+[UnknownCheats Thread]([https://www.unknowncheats.me/forum/downloads.php?do=file&id=44890](https://www.unknowncheats.me/forum/valorant/635782-ud-bypass-vanguard-using-2pc-wifi-hardware.html))
 
 ## Educational Purpose
 For educational & demonstration purposes only. Not for illegal activities or violating terms of service. The Author does not condone misuse. The author also doesnt condone invasive/intrusive kernel AC systems like vanguard though :)
