@@ -35,6 +35,10 @@ The drawing includes a little Easter egg (which might annoy someone), also have 
 Feel free to contact me through my socials if you need help. In the video, I used my laptop as my PC hardware is banned for some reason. Just in case it's not visible, I used both aimlock + mouse in the video. 
 I've added comments throughout the code to explain things further.
 I shouldn't need to say this, but if you actually sell this, then only god and a lot of prayers can help you.
-All for education purpose :)
+
+- If this helped you or you like my work, feel free to check out my other projects. I also appreciate it if you star the repo and follow me on github, for more nice work :)
 
 **UC Download:** [Download from UnknownCheats](https://www.unknowncheats.me/forum/downloads.php?do=file&id=44890)
+
+## Educational Purpose
+For educational & demonstration purposes only. Not for illegal activities or violating terms of service. The Author does not condone misuse.
