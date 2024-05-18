@@ -79,7 +79,7 @@ class simple_aimbot:
                 target_y = diff_y * self.y_speed
             
                 #hid_controller.move(int(target_x), int(target_y))
-                print(int(target_x)+"  "+ int(target_y))
+                print(str(target_x)+"  "+str(target_y))
     
     def starterino(self):
         try:
@@ -115,7 +115,7 @@ class Server:
                     break
                 # Decode mouse data
                 received_data = pickle.loads(data)
-                print("Received data:", received_data)
+                print("Received data:", str(received_data))
                 x = received_data['mouse_movement']['x']
                 y = received_data['mouse_movement']['y']
                 mouse_button = received_data['mouse_button']
@@ -149,7 +149,7 @@ class Server:
                     self.prev_mouse6_state = mouse6
 
                 #hid_controller.move(x, y) #mouse movement is at last as it relies on the keystates being handled
-                print(x+"   "+y)
+                print(str(x)+"   "+str(y))
                 response = {"OK": "OK!"}
                 response_data = pickle.dumps(response)
                 client_socket.send(response_data)
